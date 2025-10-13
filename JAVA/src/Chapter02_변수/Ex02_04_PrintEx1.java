@@ -1,4 +1,4 @@
-package javaProgrammingLanguage.Chapter02.변수;
+package Chapter02_변수;
 /* 	형식화된 출력 - printf()
  * 
  *  # 지시자

@@ -1,4 +1,4 @@
-package javaProgrammingLanguage.Chapter02.변수;
+package Chapter02_변수;
 
 public class Ex02_07_CharToCode {
 	public static void main(String[] args) {
