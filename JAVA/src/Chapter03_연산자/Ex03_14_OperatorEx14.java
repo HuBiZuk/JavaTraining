@@ -19,6 +19,8 @@ public class Ex03_14_OperatorEx14 {
 		for(int i=0; i<10; i++) {
 			System.out.print(c++);
 		}
+		System.out.println();
+
 		
 	}
 

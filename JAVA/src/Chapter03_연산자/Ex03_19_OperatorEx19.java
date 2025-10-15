@@ -1,0 +1,17 @@
+package Chapter03_연산자;
+
+//  % = 나머지 연산자
+
+public class Ex03_19_OperatorEx19 {
+	public static void main(String[] args) {
+		
+		int x = 10;
+		int y = 8;
+		
+		System.out.printf("%d을 %d로 나누면, %n", x, y);
+		System.out.printf("몫은 %d이고, 나머지는 %d 입니다. %n", x / y, x % y);
+
+		
+	}
+
+}
