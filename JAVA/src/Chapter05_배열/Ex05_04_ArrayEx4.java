@@ -2,7 +2,7 @@ package Chapter05_배열;
 
 import java.util.Arrays;
 
-public class Ex05_03_ArrayEx3 {
+public class Ex05_04_ArrayEx4 {
 	public static void main(String[] args) {
 		int[] arr = new int[5];
 		
